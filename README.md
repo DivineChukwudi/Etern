@@ -23,4 +23,4 @@
 
 ## 📫 Let's Connect
 - Email: `chukwudidivine20@gmail.com`
-- LinkedIn: [linkedin.com/in/your-link](#)
+- LinkedIn: https://www.linkedin.com/in/divine-chukwudi-858904329
