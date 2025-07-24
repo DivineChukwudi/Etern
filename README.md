@@ -24,3 +24,5 @@
 ## 📫 Let's Connect
 - Email: `chukwudidivine20@gmail.com`
 - LinkedIn: https://www.linkedin.com/in/divine-chukwudi-858904329
+- Tiktok: https://www.tiktok.com/@eterncodes
+- Instagram: https://www.instagram.com/eterncodes/
