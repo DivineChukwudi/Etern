@@ -19,7 +19,7 @@
 | To-Do App (Coming Soon) | A simple task manager with save/remove features. | JS, LocalStorage |
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/DivineChukwudi=DivineChukwudie&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect
 - Email: `chukwudidivine20@gmail.com`
