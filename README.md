@@ -1,4 +1,4 @@
-# 👋🏾 Hey, I'm ETERN
+#  Hey, I'm ETERN
 
 I'm an IT student with a growing passion for **Cybersecurity**, **Software Engineering**, and **Web Development**.
 
@@ -18,11 +18,8 @@ I'm an IT student with a growing passion for **Cybersecurity**, **Software Engin
 | Personal Portfolio (Coming Soon) | My portfolio showcasing web & mobile projects. | HTML, CSS, JS |
 | To-Do App (Coming Soon) | A simple task manager with save/remove features. | JS, LocalStorage |
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/DivineChukwudi=DivineChukwudie&show_icons=true&theme=tokyonight)
-
 ## Let's Connect
 - Email: `chukwudidivine20@gmail.com`
 - LinkedIn: https://www.linkedin.com/in/DivineChukwudi
-- Tiktok: https://www.tiktok.com/@eterncodes
-- Instagram: https://www.instagram.com/eterncodes/
+- Tiktok: https://www.tiktok.com/@etern.docx
+- Instagram: https://www.instagram.com/etern.pptx/
