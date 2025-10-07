@@ -19,7 +19,7 @@ I'm an IT student with a growing passion for **Cybersecurity**, **Software Engin
 | To-Do App (Coming Soon) | A simple task manager with save/remove features. | JS, LocalStorage |
 
 ## Let's Connect
-- Email: malito:chukwudidivine20@gmail.com
+- Email: chukwudidivine20@gmail.com
 - LinkedIn: https://www.linkedin.com/in/DivineChukwudi
 - Tiktok: https://www.tiktok.com/@etern.docx
 - Instagram: https://www.instagram.com/etern.pptx/
